@@ -12,6 +12,7 @@ body {
 .postcard-header {
 	display: flex;
 	padding: 5px;
+	padding-top: 1px;
 }
 .postcard-header img {
 	width: 50px;
